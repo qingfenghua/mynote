@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"JAVA基础","permalink":"//java/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/建站的学习笔记/java基础/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
