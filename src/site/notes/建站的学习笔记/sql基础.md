@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"sql基础","permalink":"//sql/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":null,"permalink":"//sql/","dgPassFrontmatter":true}
 ---
 
 
