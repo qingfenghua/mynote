@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"SQL基础","permalink":"//sql/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/建站的学习笔记/sql基础/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
