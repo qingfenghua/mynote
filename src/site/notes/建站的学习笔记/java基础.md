@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"java基础","permalink":"//java/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":null,"permalink":"//java/","dgPassFrontmatter":true}
 ---
 
 
