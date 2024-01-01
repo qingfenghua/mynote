@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/建站的学习笔记/java基础/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"//java/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
-## 网站文档资源： [[网页资源/Javaweb资源\|Javaweb资源]]
+## 网站文档资源： [[Javaweb资源\|Javaweb资源]]
 
 
 学习视频：[Java Tutorial for Beginners (youtube.com)](https://www.youtube.com/watch?v=eIrMbAQSU34&t=826s)
