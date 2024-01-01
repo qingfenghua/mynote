@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/建站的学习笔记/sql基础/","noteIcon":"","created":"2023-12-30T21:09:39.338+08:00"}
+{"dg-publish":true,"permalink":"/建站的学习笔记/sql基础/","noteIcon":""}
 ---
 
 
